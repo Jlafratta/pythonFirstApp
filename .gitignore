@@ -110,7 +110,10 @@ ENV/
 env.bak/
 venv.bak/
 .idea
+<<<<<<< HEAD
 
+=======
+>>>>>>> 20fe71a3a4ee74dcb4f2ad0db0247fc55ce1e1c2
 # Spyder project settings
 .spyderproject
 .spyproject
